@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Chrome Operating system</title>
+    </head>
+    <body>
+    <h1>Chrome OS</h1>
+    <h2><a href="https://en.wikipedia.org/wiki/Chrome_OS">What is a Chrome operating system</a></h2>
+    
+    <p> Chrome OS is a Operating system desinged by google that is based on linux kernel what is a linux kernel a linux kernel is another operating system that is open-source and its a big company.Chorme OS also uses the google web page browser as its main source
+    
+    <h3>Who is Chrome os made for</h3>
+    <p>Chrome OS was bulit for different people mainly for the general public. Why is it mainly for the general public, I believe that it is mainly for the general public because the goverment might not want to use it because the operating system is open source and somebody can track them through the website.</p>
+    
+    
+    
+    <style>
+        body{
+            background-color:rgb(78, 252, 3);
+        }
+        
+        h1{
+            color:rgb(255, 0, 213);
+        }
+        p{
+            color:rgb(252, 3, 252);
+        }
+        
+        h3{
+            color:rgb(255, 3, 255);
+        }
+    </style>
+    
+    </body>
+</html>
